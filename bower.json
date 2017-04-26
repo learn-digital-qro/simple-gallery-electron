@@ -1,0 +1,20 @@
+{
+  "name": "simple-gallery-electron",
+  "description": "Simple Gallery using electron",
+  "main": "main.js",
+  "authors": [
+    "Antonio Barajas <abarajasmdo@gmail.com>"
+  ],
+  "license": "Apache 2.0",
+  "keywords": [
+    "Compress",
+    "File",
+    "Electron"
+  ],
+  "homepage": "https://github.com/learn-digital-qro/simple-gallery-electron",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "bootstrap": "boostrap#^3.3.7",
+    "galleria": "^1.5.6"
+  }
+}

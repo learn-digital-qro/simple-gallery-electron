@@ -1,0 +1,29 @@
+{
+  "name": "simple-gallery-electron",
+  "version": "0.1.0",
+  "description": "Simple Gallery using electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js",
+    "test": "electron develop.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-digital-qro/simple-gallery-electron.git"
+  },
+  "keywords": [
+    "Compress",
+    "File",
+    "Electron"
+  ],
+  "author": "Antonio Barajas <abarajasmdo@gmail.com>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/learn-digital-qro/simple-gallery-electron/issues"
+  },
+  "homepage": "https://github.com/learn-digital-qro/simple-gallery-electron#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13",
+    "electron-reload": "^1.1.0"
+  }
+}

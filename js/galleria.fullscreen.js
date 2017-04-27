@@ -20,7 +20,7 @@ Galleria.addTheme({
     // begin site script
     defaults: {
         transition: 'none',
-        imageCrop: true,
+        imageCrop: false,
         thumbCrop: 'height',
         easing: 'galleriaOut',
         trueFullscreen: false,
